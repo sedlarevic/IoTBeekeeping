@@ -1,6 +1,6 @@
 ###TOO LONG DIDN'T READ###
 
-Svrha ovog projektnog rada jeste upoznavanje sa IoT sistemima uz pomoć senzora, u ovom slučaju DH11 (senzor za temperaturu i vlažnost vazduha) i MQ135 (senzor za detekciju gasova), mikrokontrolera Arduino Uno, i Raspberry Pi.
+Svrha ovog projektnog rada jeste upoznavanje sa IoT sistemima uz pomoć senzora, u ovom slučaju DHT11 (senzor za temperaturu i vlažnost vazduha) i MQ135 (senzor za detekciju gasova), mikrokontrolera Arduino Uno, i Raspberry Pi.
 U ovom projektu se korišćenjem MQTT protokola šalju podaci prikupljeni sa senzora na open-source platformu koja se zove Grafana, na kojoj se vrši vizuelizacija podataka.
 Takođe, uz pomoć Flask framework-a smo omogućili da korisnik putem HTTP zahteva traži trenutno stanje vrednosti temperature i vlažnosti vazduha, ili raspoloživosti CO2 u vazduhu. u ppm (parts per million)
 
