@@ -81,6 +81,3 @@ Sada je ostalo samo da se pokrene server komandom:
 Sada je moguće pristupiti Grafana GUI na portu 5000. Potrebno je ukucati adresu na kojoj je povezan RaspberryPi  „172.20.222.250“:5000
 Potrebno je koristiti MQTT Data Source plugin da bi se kao tip izvora podataka koristio MQTT. 
 Potrebno je kliknuti na "Configuration" (Konfiguracija) u gornjem meniju, a zatim izabrati "Data Sources" (Izvori podataka), Kliknuti na "Add data source" (Dodaj izvor podataka) i izabrati "MQTT" iz padajućeg menija(MQTT plugin for Grafana | Grafana Labs).  
-Nakon toga, treba kreirati novi dashboard.
-
-
